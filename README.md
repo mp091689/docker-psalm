@@ -1,6 +1,6 @@
 # Dockerized psalm
 
-The docker image to analyse php code using psalm.
+The docker image to analyse php code using psalm
 
 ### Usage
 
